@@ -140,21 +140,66 @@
 
 # !Day 14 starts from here 
 
+# if , elif , else statement has been used in this tutorial
+# a = int(input("Enter the number:"))
 
+# print("the number is ",a)
 
+# if a>0:
+#     print("The number is positive number")
+
+# elif a==0:
+#     print("The number is zero")
+
+# elif a<0:
+#     print("The number is negative number")
+
+# elif a==999:
+#     print("The number is a special one and the digit is nine hundred ninety nine")
+
+# else:
+#     print("the number is not a number . This is a character or a string")
+
+# num = int(input("Enter the number:"))
+
+# if(num < 0):
+#     print("The number is negative number")
+
+# elif(num>0):
+#     if(num <=10):
+#         print("The number is between 1 to 10")
+#     elif(num > 10 and num <=20):
+#         print("The number is between 11 to 20")
+#     else:
+#         print("The number is greater than 20")
+# else:
+#     print("The number is zero")
 
 # ?Day 14 ends here
 
+# !Day 15 starts from here 
 
+# simple task using python 
+# ?Day 15 ends here 
 
+# !day 16 starts from here 
+# match case in python has been teached in this tutorial
 
-
-
-
-# ?Day 13 ends here
-
-
-
+x = int(input("Enter the number:"))
+match x:
+    case 0:
+        print("x is zero")
+    case 4:
+        print("x is four")
+    
+    case _ if x !=90:
+        print(x,"is not 90")
+    
+    case _ if x!=80:
+        print(x,"Is not 80")
+    case _:
+        print(x)
+# ?day 16 ends here 
 
 
 
