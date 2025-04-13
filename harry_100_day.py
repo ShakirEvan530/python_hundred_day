@@ -114,7 +114,45 @@
 # Daily task-1
 # nm ="Harry"
 # print(nm[-4:-2])
-# ?Day 12 ends here
+
+
+# !Day 13 starts from  here
+
+# a = "Evan"
+# b="!! Jidan !!!!!!"
+# print(len(a))
+# print(a.upper())
+# print(a.lower())
+# print(b.rstrip("!"))
+# print(b.strip("!"))
+# print(a.replace("Evan","Ripa"))
+# print(b.split(" "))
+# BlogHeading = "introduction to Python"
+# print(BlogHeading.capitalize())
+# str1 = "Welcome to the console!!!"
+# print(len(str1))
+# print(len(str1.center(50)))
+# c = "Hello My name is Evan"
+# print(c.islower())
+# print(c.lower())
+# print(c.swapcase())  #convert uppercase into lowercase and lowewrcase into uppercase
+# ?Day 13 ends here 
+
+# !Day 14 starts from here 
+
+
+
+
+# ?Day 14 ends here
+
+
+
+
+
+
+
+# ?Day 13 ends here
+
 
 
 
