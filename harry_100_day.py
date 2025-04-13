@@ -75,19 +75,46 @@
 # ? Day 10 ends here 
 
 # !Day 11 Starts from here 
-name = "Evan"
-friend = "Shanto"
-anotherFriend="Sakib"
+# name = "Evan"
+# friend = "Shanto"
+# anotherFriend="Sakib"
 
-apple= 'He said, "I want to eat an apple"'
-print("Hello," +name)
-print("Hello Lord,"+friend)
-print("Hello Goat,"+anotherFriend)
-print(apple)
-
-
+# apple= 'He said, "I want to eat an apple"'
+# print("Hello," +name)
+# print("Hello Lord,"+friend)
+# print("Hello Goat,"+anotherFriend)
+# print(apple)
+# print(name[0])
+# print(name[1])
+# print("Lets use the for loop")
+# for character in friend:
+#     print(character)
+# for c in apple:
+#     print(c)
 # ?Day 11 ends here 
 
+# ! Day 12 starts from here 
+
+# names = "Aus Shakir Ahmed Evan"
+# name = "Evan"
+# print(names[0:6])
+# print(name[0:5])
+# print(len(name))
+# print(len(names))
+
+# fruit = "mango"
+# mangolen = len(fruit)
+# print(mangolen)
+# print(fruit[:])
+# print(fruit[0:4])
+# print(fruit[:4])
+# print(fruit[1:4])
+# print(fruit[0:-3]) #This means that the formula for this is len(fruit)-3
+
+# Daily task-1
+# nm ="Harry"
+# print(nm[-4:-2])
+# ?Day 12 ends here
 
 
 
