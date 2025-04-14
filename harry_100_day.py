@@ -246,7 +246,92 @@
 
 # ?Day 17 ends here 
 
+# !Day 18 starts from here 
+# x,y,z = "orange","Banana","Mango"
+# print(x)
+# print(y)
+# print(z)
+
+# x=y=z = "Orange"
+# print(x)
+# print(y)
+# print(z)
+
+# fruits = ["apple","banana","mango"]
+# x,y,z = fruits
+# print(x)
+# print(y)
+# print(z)
+
+# ?Day 18 ends here 
+# !Day 19 starts from here 
+# for i in range(3):
+#     print(i)
+
+# i=0
+# while i<=3:
+#     print(i)
+#     i= i+1
+# print("Done with the loop")
+
+# count =5
+# while count>0:
+#         print(count)
+#         count =count-1
+#     # print("done with the loop")
+# else:
+#     print("I am inside the else block")
+
+
+# for i in range(12):
+#     if(i==10):
+#         break
+#     print("5 X", i+1, "=", 5*(i+1))
+
+# print("Loop has been completed")
+
+# output for the code upper using break statement
+# 5 X 1 = 5
+# 5 X 2 = 10
+# 5 X 3 = 15
+# 5 X 4 = 20
+# 5 X 5 = 25
+# 5 X 6 = 30
+# 5 X 7 = 35
+# 5 X 8 = 40
+# 5 X 9 = 45
+# 5 X 10 = 50
+# Loop has been completed
+
+
+
+# for i in range(12):
+#     if(i==10):
+#         continue
+#     print("5 X", i+1, "=", 5*(i+1))
+
+# print("Loop has been completed")
+
+# Output for the upper code using continue statement
+
+# 5 X 1 = 5
+# 5 X 2 = 10
+# 5 X 3 = 15
+# 5 X 4 = 20
+# 5 X 5 = 25
+# 5 X 6 = 30
+# 5 X 7 = 35
+# 5 X 8 = 40
+# 5 X 9 = 45
+# 5 X 10 = 50
+# 5 X 12 = 60
+# Loop has been completed
+# ?Day 19 ends here 
+
+
+# !Day 20 starts from here 
 
 
 
 
+# ?day 20 ends here 
