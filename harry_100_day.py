@@ -185,23 +185,66 @@
 # !day 16 starts from here 
 # match case in python has been teached in this tutorial
 
-x = int(input("Enter the number:"))
-match x:
-    case 0:
-        print("x is zero")
-    case 4:
-        print("x is four")
+# x = int(input("Enter the number:"))
+# match x:
+#     case 0:
+#         print("x is zero")
+#     case 4:
+#         print("x is four")
     
-    case _ if x !=90:
-        print(x,"is not 90")
+#     case _ if x !=90:
+#         print(x,"is not 90")
     
-    case _ if x!=80:
-        print(x,"Is not 80")
-    case _:
-        print(x)
+#     case _ if x!=80:
+#         print(x,"Is not 80")
+#     case _:
+#         print(x)
 # ?day 16 ends here 
 
+# ! Day 17 starts from here 
+# name == "Shanto"
+# for i in name:
+#     print(i)
+#     if(i=="n"):
+#         print("There is some special character in this name of string")
 
+
+# for k in range(5):
+    # print(k+1)
+# for k in range(1,11):
+#     print(k)
+#     print("Hello Evan")
+
+# output for this code of upper 
+# 1
+# Hello Evan
+# 2
+# Hello Evan
+# 3
+# Hello Evan
+# 4
+# Hello Evan
+# 5
+# Hello Evan
+# 6
+# Hello Evan
+# 7
+# Hello Evan
+# 8
+# Hello Evan
+# 9
+# Hello Evan
+# 10
+# Hello Evan
+# for k in range(1,12,3):
+#     print(k)
+
+# output: 1
+# 4
+# 7
+# 10
+
+# ?Day 17 ends here 
 
 
 
