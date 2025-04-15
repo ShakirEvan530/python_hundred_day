@@ -392,38 +392,50 @@ l= [3,5,7]
 # ?day 22 ends here
 
 # !Day 23 Starts from here 
-fruits = ["apple", "banana", "cherry"]
+# fruits = ["apple", "banana", "cherry"]
 
-# 1. append()
-fruits.append("mango")
-print(fruits)
-# result: ["apple", "banana", "cherry", "mango"]
+# # 1. append()
+# fruits.append("mango")
+# print(fruits)
+# # result: ["apple", "banana", "cherry", "mango"]
 
-# 2. insert()
-fruits.insert(1, "orange")
-print(fruits)
-# result: ["apple", "orange", "banana", "cherry", "mango"]
+# # 2. insert()
+# fruits.insert(1, "orange")
+# print(fruits)
+# # result: ["apple", "orange", "banana", "cherry", "mango"]
 
-# 3. remove()
-fruits.remove("banana")
-print(fruits)
-# result: ["apple", "orange", "cherry", "mango"]
+# # 3. remove()
+# fruits.remove("banana")
+# print(fruits)
+# # result: ["apple", "orange", "cherry", "mango"]
 
-# 4. pop()
-fruits.pop()
-print(fruits)
-# result: ["apple", "orange", "cherry"]
+# # 4. pop()
+# fruits.pop()
+# print(fruits)
+# # result: ["apple", "orange", "cherry"]
 
-# 5. sort()
-numbers = [4, 2, 9, 1]
-numbers.sort()
-print(numbers)
-# result: [1, 2, 4, 9]
+# # 5. sort()
+# numbers = [4, 2, 9, 1]
+# numbers.sort()
+# print(numbers)
+# # result: [1, 2, 4, 9]
 
 
 
 # ?Day 23 ends here 
 
+# !Day 24 Starts from here 
+my_tuple = ("apple", "banana", "cherry")
+print(my_tuple[1])
+
+tup = (1,2,3,4,5,6,7,8,9,10)
+print(tup[-1])
+print(type(tup),tup)
+if 5 in tup:
+    print("The number 5 is present in the tuple")
+else:
+    print("the number 5 is not rpesent in the tuple")
+# ?Day 24 ends here 
 
 
 
