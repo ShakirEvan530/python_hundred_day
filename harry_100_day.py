@@ -425,21 +425,50 @@ l= [3,5,7]
 # ?Day 23 ends here 
 
 # !Day 24 Starts from here 
-my_tuple = ("apple", "banana", "cherry")
-print(my_tuple[1])
+# my_tuple = ("apple", "banana", "cherry")
+# print(my_tuple[1])
 
-tup = (1,2,3,4,5,6,7,8,9,10)
-print(tup[-1])
-print(type(tup),tup)
-if 5 in tup:
-    print("The number 5 is present in the tuple")
-else:
-    print("the number 5 is not rpesent in the tuple")
+# tup = (1,2,3,4,5,6,7,8,9,10)
+# print(tup[-1])
+# print(type(tup),tup)
+# if 5 in tup:
+#     print("The number 5 is present in the tuple")
+# else:
+#     print("the number 5 is not rpesent in the tuple")
 # ?Day 24 ends here 
 
+# !Day 25 starts from here 
+# * operation of tuple in python
+# tuple1 = (1,2,3,4,5,3,3,3,1,3,2,3)
+# res = tuple1.count(3)
+# print('Count of 3 in tuple1:',res)
+# res = tuple1.index(2,4,11)
+# print('Count of  in tuple1:',res)
+# ?Day 25 ends here 
 
+# !Day 26 starts from here 
+# import time
+# timestamp = time.strftime("%H:%M:%S")
+# print("Current timestamp:", timestamp)
+# timestamp = time.strftime('%H')
+# print(timestamp)
+# timestamp = time.strftime('%M')
+# print(timestamp) 
+# timestamp = time.strftime('%S')
+# print(timestamp) 
 
+# import time
+# timestamp = time.strftime("%H,%M,%S")
+# hour = int(time.strftime('%H'))
+# print(hour)
 
+# if hour>=0 and hour<=12:
+#     print("Good Morning")
+# elif hour>12 and hour<=18:
+#     print('Good Afternoon')
+# else:
+#     print("Good Night")
+# ?day 26 ends here 
 
 
 
