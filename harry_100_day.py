@@ -331,7 +331,59 @@
 
 # !Day 20 starts from here 
 
+# Basic about function has been teached in this tutorial class 
 
+# def calculator(a,b):
+#     mean = (a*b)/(a+b)
+#     print(f"The mean of the number {a} and {b} is: {mean}")
+#     if a>b:
+#         print("The first number a is greater than the second number b")
+#     elif a==b:
+#         print("The first number a and the second number b are equal")
+#     else:
+#         print("The second number b is greater than the first number a")
 
-
+# a= int(input("Enter the first number:"))
+# b= int(input("Enter the second number:"))
+# calculator(a,b)
 # ?day 20 ends here 
+
+# !Day 21 starts from here 
+
+# def average (a=9,b=1):
+#     print("The average is:",(a+b)/2)
+# average(b=9)
+# average(a=5)
+# average(10,10)
+# def name(f_name="Evan",m_name="Jidan",l_name="Ripa"):
+#     print("The full name is:",f_name,m_name,l_name)
+# name(f_name="Shakir")
+# name("Shakir","Maruf","Masruba")
+# def name(fname, mname,lname):
+#     print("Hello",fname,mname,lname)
+# name("peter","Quill","Star Lord")
+# ?Day 21 ends here 
+
+# !Day 22 starts from here 
+
+
+# ?day 22 ends here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
