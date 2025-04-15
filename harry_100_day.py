@@ -365,11 +365,64 @@
 # ?Day 21 ends here 
 
 # !Day 22 starts from here 
+#  lists in python
+l= [3,5,7]
+# print(l)
+# print(type(l))
+# print(l[0])
+# print(l[1])
+# print(l[2])
+# l[2]=9
+# print(l)
+# print(len(l))
+# print(l[-3])
 
+# if 7 in l:
+#     print("true")
+# else:
+#     print("false")
+# for i in l:
+#     print(i)
 
+# lst = [i*i for i in range(10) if i%2==0]
+# print(lst)
+
+# for tuple in lst:
+#     print(tuple)
 # ?day 22 ends here
 
+# !Day 23 Starts from here 
+fruits = ["apple", "banana", "cherry"]
 
+# 1. append()
+fruits.append("mango")
+print(fruits)
+# result: ["apple", "banana", "cherry", "mango"]
+
+# 2. insert()
+fruits.insert(1, "orange")
+print(fruits)
+# result: ["apple", "orange", "banana", "cherry", "mango"]
+
+# 3. remove()
+fruits.remove("banana")
+print(fruits)
+# result: ["apple", "orange", "cherry", "mango"]
+
+# 4. pop()
+fruits.pop()
+print(fruits)
+# result: ["apple", "orange", "cherry"]
+
+# 5. sort()
+numbers = [4, 2, 9, 1]
+numbers.sort()
+print(numbers)
+# result: [1, 2, 4, 9]
+
+
+
+# ?Day 23 ends here 
 
 
 
