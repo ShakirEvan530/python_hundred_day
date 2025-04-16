@@ -470,13 +470,36 @@ l= [3,5,7]
 #     print("Good Night")
 # ?day 26 ends here 
 
+# !Day 27 starts from here 
+
+    # *Simple task using python of creating KBC 
+# ?Day 27 ends here 
+
+# !Day 28 starts from here 
+# *f string in python 
+
+# letter = "Hey my name is {} and I am from {}"
+# country ="Bangladesh"
+# name= "Evan"
+# print(letter.format(name,country))
+# print(f"My name is {name} and I am from {country}")
+# price = 49.0999
+# print(f"for only {price:.2f} dollars!")
+# print(f"{2 * 30}")
+# print(type(f"{2 * 30}"))
+
+# *Day 28 ends here 
+
+# !Day 29 starts from here 
+
+# ?Docstring in python has been teached in this tutorial
+# *Day 29 ends here 
 
 
+# !Day 30 starts from here 
 
 
-
-
-
+# *Day 30 ends here 
 
 
 
