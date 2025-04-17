@@ -497,10 +497,49 @@ l= [3,5,7]
 
 
 # !Day 30 starts from here 
+# ? Recursion in python
 
+# def factorial(n):
+#     if(n==0 or n==1):
+#         return 1
+#     else:
+#         return n * (factorial(n-1))
+# print(factorial(0))
+# print(factorial(3))
+# print(factorial(4))
+# print(factorial(5))
 
+# fibonacci series :
+# f(0)=0
+# f(1)=1
+# f(2)=1
+# f(3)=f(0)+f(1)+f(2)
+# f(n)=f(n-1)+f(n-2)+f(n-3)
+# 0 1 1 2 3 5 8 
 # *Day 30 ends here 
 
+# !Day 31 starts from here 
+# ?Sets in python has been teached in day no 31 
+
+# a = {1,2,3,4,5}
+# b={4,5,6,7,8}
+
+# print(a)
+# print(b)
+# print(a.union(b))
+# print(a.intersection(b))
+# print(a.difference(b))
+# info = {"carla",19,False,5.9,19}   #there will be no duplicate value in the set and there will be no order in the set 
+# print(info)
+# harry = set()
+# print(type(harry))
+
+# for value in info:
+#     print(value)
+# *Day 31 ends here 
+
+# !Day 32 starts from here 
 
 
 
+# *Day 32 ends here 
