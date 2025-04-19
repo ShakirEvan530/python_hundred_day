@@ -590,8 +590,63 @@ l= [3,5,7]
 # print(ep1)
 # *Day 34 ends here 
 
+# !Day 35 starts from here 
+# for else statement in python 
 
+# for i in range(5):
+#     print(i)
+# else:
+#     print("Sorry no I left")
 
+# for i in []:
+#     print(i)
+# else:
+#     print("Sorry no I left")
+
+# for i in range(6):
+#     print(i)
+#     if i==4:
+#         break
+# else:
+#     print("Sorry no I left")
+# * Day 35 ends here 
+
+#! day 36 starts from here 
+
+#Exception handling in python 
+# Simple multiplication table using python 
+# a = int (input("Enter the number:"))
+# print(f"Multiplication table of {a} is:")
+
+# for i in range(1,11):
+#     print(f"{a} X {i} = {a*i}")
+# a =  input("Enter the number:")
+# print(f"Multiplication table of {a} is:")
+# try:
+#  for i in range(1,11):
+#     print(f"{int (a)} X {i} = {int (a)*i}")
+# except Exception as e:
+#   print("Sorry some error occured")
+# print("Some of the important line of code is missing")
+# print("End of the code")
+
+# try:
+#     x = 5/0
+# except ZeroDivisionError:
+#     print("You can not divide by zero!")
+
+# try:
+#     num = int(input("Enter a number:"))
+#     result = 10/num
+# except ZeroDivisionError:
+#     print("Error:Can't divide by zero.")
+# except ValueError:
+#     print("Error:Invalid Input.")
+# else:
+#     print("Success! Result is:",result)
+# finally:
+#     print("This always runs.")
+# *Day 36 ends here 
 
 
 
