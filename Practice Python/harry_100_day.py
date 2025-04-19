@@ -539,7 +539,62 @@ l= [3,5,7]
 # *Day 31 ends here 
 
 # !Day 32 starts from here 
-
-
-
+# Set methods in python 
 # *Day 32 ends here 
+
+# ! Day 33 starts from here 
+# ?Dictionaries in python 
+
+# dic ={
+#     "Harry": "Human Being",
+#     "spoon": "Object"
+# }
+# print(dic["Harry"])
+
+
+# dic = {
+#     344:"Harry",
+#     25:"Evan",
+#     "Name":"Jidan",
+#     56:"Shanto"
+# }
+# print(dic[25])
+# print(dic['Name'])
+# print(dic)
+# print(dic.keys())
+# print(dic.values())
+# for key in dic.keys():
+#     print(f"The value corresponding to the key {key} is {dic[key]}")
+# *Day 33 ends here 
+
+# !Day 34 starts from here 
+
+# info = {"name":"Evan",
+#         "age":25,
+#         "isMarried":False,
+#         "height":5.9}
+# print(info) 
+# info.update({"weight":70})
+# info.update({"DOB":2000})
+# print(info) 
+
+# ep1 = {122:45,123:89,567:69,678:90}
+# print(ep1)
+# ep1.clear()
+# print(ep1)
+# ep2 ={222:67,566:90}
+# print(ep2)
+# ep1.update(ep2)
+# print(ep1)
+# ep1.pop(122)
+# print(ep1)
+# *Day 34 ends here 
+
+
+
+
+
+
+
+
+

@@ -1,3 +1,2 @@
 
-# print(factorial(4))
-# print(factorial(5))
+# info.update({"DOB:2000"})
