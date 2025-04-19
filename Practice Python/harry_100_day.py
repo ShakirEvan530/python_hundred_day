@@ -629,12 +629,10 @@ l= [3,5,7]
 #   print("Sorry some error occured")
 # print("Some of the important line of code is missing")
 # print("End of the code")
-
 # try:
 #     x = 5/0
 # except ZeroDivisionError:
 #     print("You can not divide by zero!")
-
 # try:
 #     num = int(input("Enter a number:"))
 #     result = 10/num
@@ -647,6 +645,60 @@ l= [3,5,7]
 # finally:
 #     print("This always runs.")
 # *Day 36 ends here 
+# !Day 37 starts from here 
+# try:
+#  l = [1,2,3,4,5,6,7,8,9]
+#  i = int(input("Enter the value of i:"))
+#  print(l[i])
+# except:
+#     print("some error occured")
+# try:
+#     l=["Evan","Jidan","Shanto","Maruf","Sakib"]
+#     i=int(input("Enter the value of the index:"))
+#     print(l[i])
+# except Exception:
+#     print("Some error occured in this code")
+# finally:
+#     print("I am always executed")
+# try:
+#     print("Trying something safe...")
+#     x=5
+# except:
+#     print("Something went wrong!")
+# finally:
+#     print("This runs no matter what!")
+# try:
+#     print("Trying something risky...")
+#     x=5/0
+# except:
+#     print("Caught an error!")
+# finally:
+#     print("cleanup:Done.")
+# *day 37 ends here 
+# !Day 38 starts from here 
+# a = int(input("Enter the number:"))
+# if( a<5 or a>9):
+#     raise ValueError("THe number is not between 5 and 9")
+# else:
+#     print("The number is between 5 and 9")
+# a = input("Enter the character:")
+# if(a== "quiet"):
+#     print(f"The word is:{a}")
+# else:
+#     raise ValueError("The word is not quiet")
+# try:
+#     a = input("Enter the word")
+#     if a=="quiet":
+#         print(f"The word is:{a}")
+#     else:
+#         raise ValueError("The word is not quiet")
+# except ValueError as e:
+#     print("Caught an error!",e)
+# *Day 37 ends here 
+
+
+
+
 
 
 
