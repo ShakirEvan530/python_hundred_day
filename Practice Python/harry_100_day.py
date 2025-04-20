@@ -708,16 +708,30 @@ l= [3,5,7]
 # !Day 41 starts from here 
 # Shorthand if else statement in python 
 
-a = 34
-b= 35
+# a = 34
+# b= 35
 # print(a) if a>b else print(b)
 # print("A") if a>b else print("A is equall to B") if a==b else  print("B")
-c = 9 if a>b else 0
-print(c)
+# c = 9 if a>b else 0
+# print(c)
 # *Day 41 ends here 
 
+# !Day 42 starts from here 
 
+# Enumurate function in python
+# marks = [21,56,32,98,23,45,2,3]
+# index = 0
 
+# for index,mark in enumerate(marks):
+#     print(mark)
+#     if (index==3):
+#      print("Evan Your are awesome")
+    # index +=1
+# *Day 42 ends here 
 
+# !Day 43 starts from here 
+# Virtual environment in Python class has been taken 
+# have to use the chatgpt for any coding in virtual environment 
+# *Day 43 ends here 
 
 
