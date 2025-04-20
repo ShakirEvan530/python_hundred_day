@@ -696,9 +696,25 @@ l= [3,5,7]
 #     print("Caught an error!",e)
 # *Day 37 ends here 
 
+# !Day 39 starts from here 
+# Simple excercise of KBC 
+# * Day 39 ends here 
 
+# ! Day 40 starts from here 
+# Secret code generator using python 
 
+# * Day 40 ends here 
 
+# !Day 41 starts from here 
+# Shorthand if else statement in python 
+
+a = 34
+b= 35
+# print(a) if a>b else print(b)
+# print("A") if a>b else print("A is equall to B") if a==b else  print("B")
+c = 9 if a>b else 0
+print(c)
+# *Day 41 ends here 
 
 
 
