@@ -2,7 +2,7 @@ from PIL.ImageOps import grayscale
 from matplotlib.image import imread
 import  matplotlib.pyplot as plt
 import numpy as np
-input_image = imread("my_pic.jpg")
+input_image = imread("m_pic.jpg")
 r,g,b = input_image[:,:,0],input_image[:,:,1],input_image[:,:,2]
 gamma = 1.04
 

@@ -2,10 +2,10 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Load grayscale image
-image = cv2.imread('my_pic.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('m_pic.jpg', cv2.IMREAD_GRAYSCALE)
 
 if image is None:
-    print("Error: 'my_pic.jpg' not found.")
+    print("Error: 'm_pic.jpg' not found.")
     exit()
 
 # Apply Histogram Equalization

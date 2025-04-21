@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load the image in grayscale
-gray_image = cv2.imread('my_pic.jpg', cv2.IMREAD_GRAYSCALE)
+gray_image = cv2.imread('m_pic.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Convert grayscale to RGB
 rgb_image = cv2.cvtColor(gray_image, cv2.COLOR_GRAY2RGB)

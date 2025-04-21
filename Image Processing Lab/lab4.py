@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load original image in grayscale
-image = cv2.imread('my_pic.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('m_pic.jpg', cv2.IMREAD_GRAYSCALE)
 
 if image is None:
     print("Image not found. Make sure 'my_pic.jpg' exists.")

@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9d7291e-395d-405a-b653-614d7a83a571" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice Python/harry_100_day.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Python/harry_100_day.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Processing Lab/lab2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image Processing Lab/lab2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Processing Lab/lab3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image Processing Lab/lab3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Processing Lab/lab4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image Processing Lab/lab4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Processing Lab/lab6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image Processing Lab/lab6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Processing Lab/lab7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image Processing Lab/lab7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Processing Lab/lab8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image Processing Lab/lab8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +73,8 @@
       <workItem from="1745049362261" duration="18000" />
       <workItem from="1745058570315" duration="987000" />
       <workItem from="1745075410434" duration="710000" />
+      <workItem from="1745221685478" duration="640000" />
+      <workItem from="1745222450255" duration="313000" />
     </task>
     <servers />
   </component>
@@ -76,12 +82,12 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$lab8.coverage" NAME="lab8 Coverage Results" MODIFIED="1745058881794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
-    <SUITE FILE_PATH="coverage/Python$lab5.coverage" NAME="lab5 Coverage Results" MODIFIED="1745058738795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
-    <SUITE FILE_PATH="coverage/Python$lab2.coverage" NAME="lab2 Coverage Results" MODIFIED="1745075499943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
-    <SUITE FILE_PATH="coverage/Python$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1745076010128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
-    <SUITE FILE_PATH="coverage/Python$lab7.coverage" NAME="lab7 Coverage Results" MODIFIED="1745058856227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
-    <SUITE FILE_PATH="coverage/Python$lab4.coverage" NAME="lab4 Coverage Results" MODIFIED="1745058702046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
-    <SUITE FILE_PATH="coverage/Python$lab6.coverage" NAME="lab6 Coverage Results" MODIFIED="1745058810134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
+    <SUITE FILE_PATH="coverage/Python$lab8.coverage" NAME="lab8 Coverage Results" MODIFIED="1745222270899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
+    <SUITE FILE_PATH="coverage/Python$lab5.coverage" NAME="lab5 Coverage Results" MODIFIED="1745222124500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
+    <SUITE FILE_PATH="coverage/Python$lab2.coverage" NAME="lab2 Coverage Results" MODIFIED="1745221749955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
+    <SUITE FILE_PATH="coverage/Python$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1745222487149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
+    <SUITE FILE_PATH="coverage/Python$lab7.coverage" NAME="lab7 Coverage Results" MODIFIED="1745222229031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
+    <SUITE FILE_PATH="coverage/Python$lab4.coverage" NAME="lab4 Coverage Results" MODIFIED="1745222080638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
+    <SUITE FILE_PATH="coverage/Python$lab6.coverage" NAME="lab6 Coverage Results" MODIFIED="1745222180806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing Lab" />
   </component>
 </project>

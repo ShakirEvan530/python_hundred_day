@@ -157,3 +157,25 @@
 
 # print(f"your new weight is {round(weight)} {unit}")
 
+# list1 = ["apple","banana","Mango"]
+# list2 = [1,2,3,4,5]
+# list3 = [True,False,True]
+# print(type(list1))
+# print(type(list2))
+# print(type(list3))
+
+thislist = list(("apple","Banana","cherry"))
+print(thislist)
+thislist2 = list(("apple","Banana","Mango"))
+mainitems =(thislist2)
+print(mainitems[1])
+
+thislist3 = ["apple","banana","cherry","orange","kiwi","WaterMelon","mango"]
+# print(thislist3)
+# print(thislist3[2:5])
+# print(thislist3[:4])
+# print(thislist3[2:])
+
+print(thislist3[-4:-1])
+if "apple" in thislist3:
+    print("Yes apple is present in the list")
