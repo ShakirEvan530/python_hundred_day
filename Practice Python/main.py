@@ -164,18 +164,90 @@
 # print(type(list2))
 # print(type(list3))
 
-thislist = list(("apple","Banana","cherry"))
-print(thislist)
-thislist2 = list(("apple","Banana","Mango"))
-mainitems =(thislist2)
-print(mainitems[1])
+# thislist = list(("apple","Banana","cherry"))
+# print(thislist)
+# thislist2 = list(("apple","Banana","Mango"))
+# mainitems =(thislist2)
+# print(mainitems[1])
 
-thislist3 = ["apple","banana","cherry","orange","kiwi","WaterMelon","mango"]
+# thislist3 = ["apple","banana","cherry","orange","kiwi","WaterMelon","mango"]
 # print(thislist3)
 # print(thislist3[2:5])
 # print(thislist3[:4])
 # print(thislist3[2:])
 
-print(thislist3[-4:-1])
-if "apple" in thislist3:
-    print("Yes apple is present in the list")
+# print(thislist3[-4:-1])
+# if "apple" in thislist3:
+#     print("Yes apple is present in the list")
+
+# thislist =["apple","banana","Cherry","Orange","kiwi","mango"]
+# print(thislist)
+# thislist[1:3]=["blackcurrant","watermelon"]
+# print(thislist)
+
+
+# thislist =["apple","banana","Cherry"]
+# print(thislist)
+# thislist.insert(2,"watermelon")
+# print(thislist)
+
+# thislist = ["apple","banana","cherry"]
+# thislist.append("orange")
+# print(thislist)
+# thislist = ["apple","banana","cherry"]
+# thislist.insert(1,"orange")
+# print(thislist)
+
+# tropical = ["mango","pineapple","papaya"]
+# thislist.extend(tropical)
+# print(thislist)
+
+# thislist = ["apple","banana","cherry"]
+# thistuple =("kiwi","orange","evan")
+# thislist.extend(thistuple)
+# print(thislist)
+# thislist.append(thistuple)
+# print(thislist)
+
+# thislist = ["apple","banana","cherry"]
+# thislist.remove("banana")
+# print(thislist)
+
+# thislist = ["apple","banana","cherry"]
+# thislist.pop(1)
+# print(thislist)
+# del thislist[0]
+# print(thislist)
+# del thislist
+
+# thislist = ["apple","banana","cherry"]
+# thislist.clear()
+# print(thislist)
+# for x in thislist:
+#     print(x)
+# for x in range(len(thislist)):
+#     print(x)
+#     print(thislist[x])
+
+
+thislist =["apple","banana","cherry"]
+i=0
+while i<len(thislist):
+    print(thislist[i])
+    i=i+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
