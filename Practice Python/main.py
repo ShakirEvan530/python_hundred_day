@@ -303,24 +303,50 @@
 # mylist = thislist[:]
 # print(mylist)
 
+# list1 = ["a","b","c"]
+# list2 = [1,2,3]
+# list3 = list1 + list2
+# print(list3)
+
+# list1 = ["a","b","c"]
+# list2 = [1,2,3]
+# for x in list2:
+#     list1.append(x)
+# print(list1)
 
 
+# list1 = ["A","b","c"]
+# list2 = [1,2,3]
+# list1.extend(list2)
+# print(list1)
 
+# thistuple =("apple",)
+# print(type(thistuple))
+# thistuple2 = ("apple")
+# print(type(thistuple2))
 
+# tuple1 =("apple",34,True,40,"male")
+# print(type(tuple1))
 
+# thistuple =("apple","banana","cherry")
+# if "apple" in thistuple:
+#     print("Yes, item is present in the tuple")
+# else:
+#     print("No, The item is not present in the tuple")
 
+# x = ("apple","banana","Cherry")
+# print(x)
+# y = list(x)
+# y.append("orange")
+# print(y)
 
-
-
-
-
-
-
-
-
-
-
-
-
+thistuple = ("apple","banana","cherry")
+# print(thistuple)
+# y = list(thistuple)
+# print(y)
+# y.remove("banana")
+# print(y)
+del thistuple
+print(thistuple)
 
 
