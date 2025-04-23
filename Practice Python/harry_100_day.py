@@ -734,4 +734,26 @@ l= [3,5,7]
 # have to use the chatgpt for any coding in virtual environment 
 # *Day 43 ends here 
 
+# !Day 44 starts from here 
+
+#  import in python 
+# from math import sqrt ,pi
+# result =sqrt(9)*pi
+# print(result)
+
+# *Day 44 ends here 
+# !day 45 starts from here 
+# if __name__ == "__main__" in Python
+# *day 45 ends here 
+# !Day 46 starts from here in python
+# os module in python 
+# this module is used for creating multiple folders and many more functionalities
+# *Day 46 ends 
+
+# !Day 47 starts from here 
+# excercise solved
+# *Day 47 ends here 
+
+
+
 
