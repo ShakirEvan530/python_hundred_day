@@ -346,7 +346,43 @@ thistuple = ("apple","banana","cherry")
 # print(y)
 # y.remove("banana")
 # print(y)
-del thistuple
-print(thistuple)
+# del thistuple
+# print(thistuple)
+# for i in range(len(thistuple)):
+#     print(thistuple[i])
+
+# i = 0
+# while i<len(thistuple):
+#     print(thistuple)
+#     i=i+1
+
+# tuple1 = (1,2,3)
+# tuple1= tuple1 *2
+# print(tuple1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
