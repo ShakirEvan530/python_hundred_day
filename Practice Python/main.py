@@ -389,12 +389,29 @@ thistuple = ("apple","banana","cherry")
 # print(x)
 # print(thisset)
 
+# set1 = {"a","b","c"}
+# set2 = {1,2,3}
 
+# set3 = set1.union(set2)
+# set3 = set1 | set2
+# print(set3)
+# set1.update(set2)
+# print(set1)
 
+car = {
+    "brand": "Ford",
+    "model":"Mustang",
+    "year":1964
+}
+# print(thisdict)
+# x = thisdict["model"]
+# x = thisdict.get("model")
+# print(x)
 
+x = car.values()
+print(x)
+car["year"]=2020
+print(x)
 
-
-
-
-
-
+x1 = car.items()
+print(x1)
