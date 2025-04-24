@@ -358,24 +358,36 @@ thistuple = ("apple","banana","cherry")
 
 # tuple1 = (1,2,3)
 # tuple1= tuple1 *2
-# print(tuple1)
+# # print(tuple1)
+
+# thisset = {"apple","banana","cherry",True,1,2} # 1 is considered as same as True
+# print(thisset)
+
+# thisset = {"apple","banana","cherry",True,False}
+# print(thisset)
 
 
+# thisset = set(("apple","banana","Cherry"))
+# print(thisset)
 
+# thisset = {"apple","Banana","Cherry"}
+# print(thisset)
+# tropical = {"pineapple","mango","papaya"}
+# print(tropical)
+# thisset.update(tropical)
+# print(thisset)
 
+# thisset = {"apple","banana","Cherry"}
+# mylist = ["Kiwi","orange"]
+# thisset.update(mylist)
+# print(thisset)
 
-
-
-
-
-
-
-
-
-
-
-
-
+# thisset = {"apple","banana","cherry"}
+# thisset.discard("banana")
+# # print(thisset)
+# x =thisset.pop()
+# print(x)
+# print(thisset)
 
 
 
