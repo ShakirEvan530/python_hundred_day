@@ -448,13 +448,17 @@ car = {
 # my_function("Tobias")
 # my_function("Linus")
 
-def my_function(*kids):
-    print("The youngest is " +kids[0])
-my_function("Emil","Tobias","Linus")
+# def my_function(*kids):
+#     print("The youngest is " +kids[0])
+# my_function("Emil","Tobias","Linus")
 
+# def my_function(fname,lname):
+#     print(fname + " " + lname)
+# my_function("emily","Muna")
 
-
-
+# def my_function(*kids):
+#     print("the youngest child is " +kids[2])
+# my_function("ripa","jidan","Evan")
 
 
 

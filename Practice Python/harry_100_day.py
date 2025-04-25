@@ -754,6 +754,30 @@ l= [3,5,7]
 # excercise solved
 # *Day 47 ends here 
 
+# !day 48 starts from here 
+# local variable and global variable has been introduced .
+# x = 4
+# print(x)
+# def hello():
+#     x =5
+#     print(f"The local x is {x}")
+#     print("Hello Evan")
+# print(f"The global x is {x}")
+# hello()
+# print(f"The global x is {x}")
+
+# *Day 48 ends here 
 
 
 
+# !Day 49 starts from here
+# File handling in python
+# *Day 49 ends here 
+
+
+
+# !Day 52 starts from here 
+# Lambda function in python 
+
+
+# *day 52 ends here 
