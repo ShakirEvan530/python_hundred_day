@@ -408,10 +408,53 @@ car = {
 # x = thisdict.get("model")
 # print(x)
 
-x = car.values()
-print(x)
-car["year"]=2020
-print(x)
+# x = car.values()
+# print(x)
+# car["year"]=2020
+# print(x)
 
-x1 = car.items()
-print(x1)
+# x1 = car.items()
+# print(x1)
+
+
+# day = int(input())
+# match day:
+#   case 1:
+#     print("Monday")
+#   case 2:
+#     print("Tuesday")
+#   case 3:
+#     print("Wednesday")
+#   case 4:
+#     print("Thursday")
+#   case 5:
+#     print("Friday")
+#   case 6:
+#     print("Saturday")
+#   case 7:
+#     print("Sunday")
+
+# day = int(input("Enter the day:"))
+# match day:
+#   case 1 | 2 | 3 | 4 | 5:
+#     print("Today is a weekday")
+#   case 6 | 7:
+#     print("I love weekends!")
+
+# def my_function(fname):
+#   print(fname + " Refsnes")
+
+# my_function("Emil")
+# my_function("Tobias")
+# my_function("Linus")
+
+def my_function(*kids):
+    print("The youngest is " +kids[0])
+my_function("Emil","Tobias","Linus")
+
+
+
+
+
+
+
