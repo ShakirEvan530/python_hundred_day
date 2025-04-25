@@ -778,6 +778,22 @@ l= [3,5,7]
 
 # !Day 52 starts from here 
 # Lambda function in python 
+# def double(x):
+#     return x*2
+# print(double(5))
 
+# def appl(fx,value):
+#     return 6 + fx(value)
+
+# double = lambda x: x*2
+# print(double(5))
+
+# cube = lambda x:x*x*x
+# print(cube(5))
+
+# avg = lambda x,y: (x+y)/2
+# print(avg(10,20))
+# print(appl(lambda x: x*x*x,2))
+# print(appl(cube,2))
 
 # *day 52 ends here 
