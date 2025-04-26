@@ -459,6 +459,23 @@ car = {
 # def my_function(*kids):
 #     print("the youngest child is " +kids[2])
 # my_function("ripa","jidan","Evan")
+class Phone():
+    def call(self):
+        print("You can call by using phone")
+    def message(self):
+        print("You can message by  using the phone")
+class Iphone(Phone):
+    def call(self):
+        print("You can call by using Iphone")
+    def message(self):
+        print("You can message by using the Iphone")
+    def photo(self):
+        print("You can take photo by using the IPhone")
+I = Iphone()
+I.message()
+I.call()
+I.photo()
 
-
-
+# p = Phone()
+# p.call()
+# p.message()

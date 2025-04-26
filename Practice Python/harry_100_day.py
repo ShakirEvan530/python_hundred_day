@@ -812,20 +812,64 @@ l= [3,5,7]
 # print(a.occupation)
 # print(a.networth)
 
-class Person:
-    # name = "Evan"
-    name = input("Enter your name:")
-    # occupation = "Developer"
-    occupation = input("Enter your profession:")
-    # Monthly_revenue = 100000000000
-    Monthly_revenue = int(input("Enter your salary:"))
-a =Person()
-print(f"{a.name} job is  {a.occupation} income {a.Monthly_revenue}")
-# a.name = "Jidan"
-a.name = input("Enter the second name:")
-# a.occupation = "Desingner"
-a.occupation = input("Enter your new professsion:")
-# a.Monthly_revenue = 100000000
-a.Monthly_revenue = int(input("Enter the salary:"))
-print(f"{a.name} job is  {a.occupation} income {a.Monthly_revenue}")
-# *class 57 ends here 
+# class Person:
+#     # name = "Evan"
+#     name = input("Enter your name:")
+#     # occupation = "Developer"
+#     occupation = input("Enter your profession:")
+#     # Monthly_revenue = 100000000000
+#     Monthly_revenue = int(input("Enter your salary:"))
+# a =Person()
+# print(f"{a.name} job is  {a.occupation} income {a.Monthly_revenue}")
+# # a.name = "Jidan"
+# a.name = input("Enter the second name:")
+# # a.occupation = "Desingner"
+# a.occupation = input("Enter your new professsion:")
+# # a.Monthly_revenue = 100000000
+# a.Monthly_revenue = int(input("Enter the salary:"))
+# print(f"{a.name} job is  {a.occupation} income {a.Monthly_revenue}")
+
+# class Person:
+#     def __init__(self,name,age):
+#         self.name = name
+#         self.age = age
+# p1 =Person("John",36)
+# print(p1.name)
+# print(p1.age)
+
+
+# class Person():
+#     def __init__(self,name,age):
+#         self.name = name
+#         self.age = age
+# p = Person("Evan",25)
+# print(p.name)
+# print(p.age)
+
+# class Evan():
+#     def __init__(self,name,age):
+#         self.name = name
+#         self.age = age
+# p = Person("Jidan",26)
+# print(p.name)
+# print(p.age)
+# class Person:
+#   def __init__(mysillyobject, name, age):
+#     mysillyobject.name = name
+#     mysillyobject.age = age
+
+#   def myfunc(abc):
+#     print("Hello my name is " + abc.name)
+
+# p1 = Person("John", 36)
+# p1.myfunc()
+# # *class 57 ends here 
+
+
+# !Day 61 starts from here 
+# inheritence in python 
+
+
+
+
+# *Day 61 ends here 
