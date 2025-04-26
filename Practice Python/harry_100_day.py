@@ -797,3 +797,35 @@ l= [3,5,7]
 # print(appl(cube,2))
 
 # *day 52 ends here 
+
+
+
+# !Class 57 starts from here 
+
+# class Person:
+#     name = "Evan"
+#     occupation ="Software Developer"
+#     networth = 1000000
+
+# a = Person()
+# print(a.name)
+# print(a.occupation)
+# print(a.networth)
+
+class Person:
+    # name = "Evan"
+    name = input("Enter your name:")
+    # occupation = "Developer"
+    occupation = input("Enter your profession:")
+    # Monthly_revenue = 100000000000
+    Monthly_revenue = int(input("Enter your salary:"))
+a =Person()
+print(f"{a.name} job is  {a.occupation} income {a.Monthly_revenue}")
+# a.name = "Jidan"
+a.name = input("Enter the second name:")
+# a.occupation = "Desingner"
+a.occupation = input("Enter your new professsion:")
+# a.Monthly_revenue = 100000000
+a.Monthly_revenue = int(input("Enter the salary:"))
+print(f"{a.name} job is  {a.occupation} income {a.Monthly_revenue}")
+# *class 57 ends here 
