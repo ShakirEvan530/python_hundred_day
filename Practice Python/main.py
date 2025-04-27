@@ -476,6 +476,9 @@ I.message()
 I.call()
 I.photo()
 
+print(issubclass(Iphone,Phone))
+print(issubclass(Phone,Iphone))
+
 # p = Phone()
 # p.call()
 # p.message()
