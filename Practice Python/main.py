@@ -459,26 +459,147 @@ car = {
 # def my_function(*kids):
 #     print("the youngest child is " +kids[2])
 # my_function("ripa","jidan","Evan")
-class Phone():
-    def call(self):
-        print("You can call by using phone")
-    def message(self):
-        print("You can message by  using the phone")
-class Iphone(Phone):
-    def call(self):
-        print("You can call by using Iphone")
-    def message(self):
-        print("You can message by using the Iphone")
-    def photo(self):
-        print("You can take photo by using the IPhone")
-I = Iphone()
-I.message()
-I.call()
-I.photo()
+# class Phone():
+#     def call(self):
+#         print("You can call by using phone")
+#     def message(self):
+#         print("You can message by  using the phone")
+# class Iphone(Phone):
+#     def call(self):
+#         print("You can call by using Iphone")
+#     def message(self):
+#         print("You can message by using the Iphone")
+#     def photo(self):
+#         print("You can take photo by using the IPhone")
+# I = Iphone()
+# I.message()
+# I.call()
+# I.photo()
 
-print(issubclass(Iphone,Phone))
-print(issubclass(Phone,Iphone))
+# print(issubclass(Iphone,Phone))
+# print(issubclass(Phone,Iphone))
 
 # p = Phone()
 # p.call()
 # p.message()
+
+
+# class Person:
+#   def __init__(self, fname, lname):
+#     self.firstname = fname
+#     self.lastname = lname
+
+#   def printname(self):
+#     print(self.firstname, self.lastname)
+
+#Use the Person class to create an object, and then execute the printname method:
+
+# x = Person("John", "Doe")
+# x.printname()
+
+
+# class Animal():
+#     alive = True
+
+#     def eat(self):
+#         print("This animal is eating")
+
+#     def sleep(self):
+#         print("This animal is sleeping")
+
+# class Rabbit(Animal):
+#     pass
+# class Fish(Animal):
+#     pass
+# class Hawk(Animal):
+#     pass
+
+# rabbit = Rabbit()
+# fish = Fish()
+# hawk = Hawk()
+
+# print(rabbit.alive)
+# fish.eat()
+# hawk.sleep()
+
+# class Animal():
+#     alive = True
+#     def eat(self):
+#         print("the animal can eat")
+#     def sleep(self):
+#         print("The animal can sleep")
+#     def run(self):
+#         print("THe animal can run")
+# class Rabbit(Animal):
+#     pass
+# class Fish(Animal):
+#     pass
+# class Hawk(Animal):
+#     pass
+
+# rabbit = Rabbit()
+# fish = Fish()
+# hawk = Hawk()
+
+# print(Rabbit().alive)
+# Fish().eat()
+# Hawk().sleep()
+# Fish().run()
+# Hawk().run()
+
+
+# class MyNumbers:
+#     def __iter__(self):
+#         self.a = 1
+#         return self
+#     def __next__(self):
+#         x = self.a
+#         self.a +=1
+#         return x
+# myclass = MyNumbers()
+# myiter = iter(myclass)
+
+# print(next(myiter))
+# print(next(myiter))
+# print(next(myiter))
+# print(next(myiter))
+# print(next(myiter))
+
+# numbers = [1,2,3,4,5]
+# numbers =input("enter the numbers:")
+# for x in numbers:
+#     print(x)    
+#     x= x + 1
+    
+num = int(input("Enter the numbers:"))
+for i in range(num):
+    print(i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
