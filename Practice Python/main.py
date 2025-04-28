@@ -571,24 +571,84 @@ car = {
 #     print(x)    
 #     x= x + 1
     
-num = int(input("Enter the numbers:"))
-for i in range(num):
-    print(i)
+# num = int(input("Enter the numbers:"))
+# for i in range(num):
+#     print(i)
 
+# class Car:
+#     def __init__(self,brand,model):
+#         self.brand = brand
+#         self.model = model
 
+#     def move(self):
+#         print("drive!")
+    
+# class Boat:
+#     def __init__(self,brand,model):
+#         self.brand = brand
+#         self.model = model
 
+#     def move(self):
+#         print("sail!")
 
+# class Plane:
+#     def __init__(self,brand,model):
+#         self.brand = brand
+#         self.model = model
 
+#     def move(self):
+#         print("fly")
 
+# car1 = Car("ford","Mustang")
+# boat1 = Boat("Ibiza","Touring 20")
+# plane1 =Plane("boeing","747")
 
+# for x in (car1,boat1,plane1):
+#     x.move()
 
+# def myfunc():
+#     x = 300
+#     def myinnerfunc():
+#         x=200
+#         print(x)
+#     myinnerfunc()
+#     print(x)
+# myfunc()
 
+# x = 300
+# def myfunc():
+#     global x
+#     x = 200
+# myfunc()
+# print(x)
 
+# def myfunc1():
+#     x = "jane"
+#     def myfunc2():
+#         nonlocal x
+#         x ="hello"
+#     myfunc2()
+#     return x
+# print(myfunc1())
 
+# def greeting(name):
+#     print("hello, " + name )
 
+# greeting("Evan")
 
+# import datetime
+# x = datetime.datetime.now()
+# print(x)
 
+# import datetime
 
+# x = datetime.datetime.now()
+
+# # print(x.year)
+# print(x.strftime("%A"))
+# print(x.strftime("%B"))
+# print(x.strftime("%C"))
+# print(x.strftime("%D"))
 
 
 
